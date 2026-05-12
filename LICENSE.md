@@ -1,4 +1,4 @@
-# 
+# quantitative deribit trading bot Module | position-sizing + multi-exchange-support is the best deribit trading bot, featuring position-sizing and multi-exchange-support. Smart,
 
 
 
